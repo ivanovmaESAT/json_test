@@ -1,35 +1,73 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Ivan",
-      "rankingPoints": 999
-    },
-    {
-      "id": 2,
-      "name": "Pepe02",
-      "rankingPoints": 888
-    },
-    {
-      "id": 3,
-      "name": "Marcos07",
-      "rankingPoints": 777
-    },
-    {
-      "id": 4,
-      "name": "Faker",
-      "rankingPoints": 666
-    },
-    {
-      "id": 5,
-      "name": "Rekkles",
-      "rankingPoints": 555
-    },
-    {
-      "id": 6,
-      "name": "Soaz",
-      "rankingPoints": 444
-    }
-  ]
+  "rankingTable" {
+    "page0": [
+      {
+        "id": 1,
+        "name": "Ivan",
+        "rankingPoints": 999
+      },
+      {
+        "id": 2,
+        "name": "Pepe02",
+        "rankingPoints": 888
+      },
+      {
+        "id": 3,
+        "name": "Marcos07",
+        "rankingPoints": 777
+      },
+      {
+        "id": 4,
+        "name": "Faker",
+        "rankingPoints": 666
+      },
+      {
+        "id": 5,
+        "name": "Rekkles",
+        "rankingPoints": 555
+      },
+      {
+        "id": 6,
+        "name": "Soaz",
+        "rankingPoints": 444
+      }
+    ],
+    "page1": [
+      {
+        "id": 7,
+        "name": "Alexandre",
+        "rankingPoints": 999
+      },
+      {
+        "id": 8,
+        "name": "Josu",
+        "rankingPoints": 888
+      },
+      {
+        "id": 9,
+        "name": "JC",
+        "rankingPoints": 777
+      },
+      {
+        "id": 10,
+        "name": "Alvaro",
+        "rankingPoints": 666
+      },
+      {
+        "id": 11,
+        "name": "Javi",
+        "rankingPoints": 555
+      },
+      {
+        "id": 12,
+        "name": "Andres",
+        "rankingPoints": 444
+      }
+    ]
+  },
+  "rankingPage1" {
+    
+  }
+
 
 }
