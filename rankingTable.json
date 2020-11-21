@@ -24,4 +24,37 @@
     "rankingPoints": "444"
   }
 
+  "users": [
+    {
+      "id": 1,
+      "name": "Ivan",
+      "rankingPoints": 999
+    },
+    {
+      "id": 2,
+      "name": "Pepe02",
+      "rankingPoints": 888
+    },
+    {
+      "id": 3,
+      "name": "Marcos07",
+      "rankingPoints": 777
+    },
+    {
+      "id": 4,
+      "name": "Faker",
+      "rankingPoints": 666
+    },
+    {
+      "id": 5,
+      "name": "Rekkles",
+      "rankingPoints": 555
+    },
+    {
+      "id": 6,
+      "name": "Soaz",
+      "rankingPoints": 444
+    }
+  ]
+
 }
