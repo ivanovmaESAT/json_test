@@ -36,32 +36,32 @@
       {
         "id": 7,
         "name": "Alexandre",
-        "rankingPoints": 999
+        "rankingPoints": 333
       },
       {
         "id": 8,
         "name": "Josu",
-        "rankingPoints": 888
+        "rankingPoints": 332
       },
       {
         "id": 9,
         "name": "JC",
-        "rankingPoints": 777
+        "rankingPoints": 300
       },
       {
         "id": 10,
         "name": "Alvaro",
-        "rankingPoints": 666
+        "rankingPoints": 250
       },
       {
         "id": 11,
         "name": "Javi",
-        "rankingPoints": 555
+        "rankingPoints": 241
       },
       {
         "id": 12,
         "name": "Andres",
-        "rankingPoints": 444
+        "rankingPoints": 101
       }
     ]
   }
